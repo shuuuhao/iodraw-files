@@ -22,10 +22,10 @@
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-6" value="MQTT客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="185" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FX17Fb3qsqb50mIbVRiJ-7" value="管廊机房数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-7" value="MQTT服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="185" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FX17Fb3qsqb50mIbVRiJ-8" value="管廊机房数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-8" value="监测数据解析服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="414" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-9" value="管廊机房数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
