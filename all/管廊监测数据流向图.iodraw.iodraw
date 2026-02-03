@@ -4,20 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FX17Fb3qsqb50mIbVRiJ-1" target="FX17Fb3qsqb50mIbVRiJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-1" value="管廊机房数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="150" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FX17Fb3qsqb50mIbVRiJ-6" target="FX17Fb3qsqb50mIbVRiJ-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-6" value="MQTT客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="230" width="185" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FX17Fb3qsqb50mIbVRiJ-7" target="FX17Fb3qsqb50mIbVRiJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-7" value="MQTT服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="310" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FX17Fb3qsqb50mIbVRiJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FX17Fb3qsqb50mIbVRiJ-8" target="FX17Fb3qsqb50mIbVRiJ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-8" value="数据解析服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="393.5" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX17Fb3qsqb50mIbVRiJ-9" value="综合管廊系统数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="680" width="185" height="40" as="geometry" />
+          <mxGeometry x="525" y="480" width="185" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
