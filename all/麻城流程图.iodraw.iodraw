@@ -28,6 +28,9 @@
         <mxCell id="57wCmeFXQcwXbNrQKgZH-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;起重机械管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="57wCmeFXQcwXbNrQKgZH-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;起重机械管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
